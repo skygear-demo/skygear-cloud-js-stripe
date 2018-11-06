@@ -1,0 +1,25 @@
+{
+  "name": "skygear-cloud-js-stripe",
+  "version": "1.0.0",
+  "description": "This demo demostrates the use of Nodejs Skygear Cloud Functions to make payment requests to Stripe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IniZio/skygear-cloud-js-stripe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IniZio/skygear-cloud-js-stripe/issues"
+  },
+  "homepage": "https://github.com/IniZio/skygear-cloud-js-stripe#readme",
+  "dependencies": {
+    "skygear": "^1.6.3",
+    "stripe": "^6.13.0"
+  }
+}
